@@ -2,14 +2,13 @@
 
 body {
   font: normal 14pt Arial;
-  background-color: rgb(94, 168, 252);
+  background-color: #465EFF;
   color: white;
 }
 
 header {
   text-align: center;
-  background-color: rgb(250, 193, 238);
-  color: rgb(39, 60, 83);
+  color: #FCFC30;
   width: 400px;
   margin: auto;
   border-radius: 10px;
